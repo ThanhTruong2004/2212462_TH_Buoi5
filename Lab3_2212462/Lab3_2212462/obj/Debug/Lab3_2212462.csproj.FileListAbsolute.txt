@@ -1,0 +1,10 @@
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\bin\Debug\Lab3_2212462.exe.config
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\bin\Debug\Lab3_2212462.exe
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\bin\Debug\Lab3_2212462.pdb
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.csproj.AssemblyReference.cache
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.frmSinhVien.resources
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.Properties.Resources.resources
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.csproj.GenerateResource.cache
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.csproj.CoreCompileInputs.cache
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.exe
+Z:\2212462_Windowforms\Lab3_2212462\Lab3_2212462\obj\Debug\Lab3_2212462.pdb
